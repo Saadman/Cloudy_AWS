@@ -19,3 +19,5 @@ Steps:
 
 Scripts/libraries used: HTML,PHP,CSS,AJAX,JQUERY
 
+URL:http://ec2-52-90-88-147.compute-1.amazonaws.com/HW1Rashid/index.php
+
